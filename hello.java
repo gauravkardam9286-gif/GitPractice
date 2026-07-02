@@ -3,7 +3,7 @@ package Localripo;
 public class hello {
     public static void main(String[] args) {
         System.out.println("hello world");
-        sSystem.out.println("hey gaurav");
+        System.out.println("hey gaurav");
     }
     
 }
